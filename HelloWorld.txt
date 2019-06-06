@@ -8,8 +8,4 @@ Tenslotte nog eens blabla ..
 
 Einde
 
-In de branch "test" gaan we verder !
-
-En verder ...
-
-Terug op de master
+Na de bugfix
